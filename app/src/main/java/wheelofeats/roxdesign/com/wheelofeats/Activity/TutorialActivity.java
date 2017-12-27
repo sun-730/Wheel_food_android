@@ -45,6 +45,7 @@ public class TutorialActivity extends AppCompatActivity {
         last_linear = (LinearLayout)findViewById(R.id.tutorial_last);
         btt_gotIt = (Button)findViewById(R.id.btt_gotit);
         chk_terms = (CheckBox)findViewById(R.id.checkBox);
+        chk_terms.setChecked(true);
     }
     private void setEvents(){
         btt_gotIt.setOnClickListener(new View.OnClickListener() {
