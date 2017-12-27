@@ -1,0 +1,63 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="wheelofeats.roxdesign.com.wheelofeats.Fragment.MyWheelFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left"
+            android:layout_marginRight="@dimen/margin_left"
+            android:layout_marginTop="@dimen/mywheel_margintop"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <Switch
+                android:id="@+id/switch_edit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/edit"
+                android:textSize="@dimen/text_content"
+                android:theme="@style/SCBSwitch"/>
+
+            <TextView
+                android:id="@+id/edtEnable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_left"
+                android:text="@string/disable"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/text_content" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <Button
+                android:id="@+id/bttCreate"
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/drawable_button_white"
+                android:text="@string/create_new"
+                android:textColor="@drawable/drawable_text_blue" />
+
+        </LinearLayout>
+
+        <GridView
+            android:id="@+id/mywheel_grid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:numColumns="3" />
+    </LinearLayout>
+
+
+</FrameLayout>

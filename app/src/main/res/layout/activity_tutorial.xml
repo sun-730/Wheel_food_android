@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="wheelofeats.roxdesign.com.wheelofeats.Activity.TutorialActivity">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true" />
+
+    <com.viewpagerindicator.CirclePageIndicator
+        android:id="@+id/indicator"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="bottom"
+        android:padding="10dip"
+        app:centered="true"
+        app:fillColor="@color/color_blue_main"
+        app:pageColor="#FFFFFF"
+        app:snap="false" />
+
+    <LinearLayout
+        android:id="@+id/tutorial_last"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="false"
+            android:text="@string/read_term" />
+
+        <Button
+            android:id="@+id/btt_gotit"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="false"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/tutorial_button_margintop"
+            android:background="@drawable/drawable_button_blue"
+            android:text="@string/got_it"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+
+</RelativeLayout>
+

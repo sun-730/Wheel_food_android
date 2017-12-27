@@ -1,0 +1,205 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="wheelofeats.roxdesign.com.wheelofeats.Activity.CreateWheelActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/navigation_top_height"
+        android:background="@android:color/white"
+        android:id="@+id/relativeLayout">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/create_wheel"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_title"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btt_create_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:text="@string/back"
+            android:textColor="@color/color_blue_main" />
+    </RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_above="@+id/linearLayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="@dimen/margin_left"
+            android:layout_marginRight="@dimen/margin_left"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:text="@string/create_wheel_help"
+                android:textAlignment="center"
+                android:textSize="@dimen/text_content" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:text="@string/create_wheel_title"
+                android:textSize="@dimen/text_title" />
+            <EditText
+                android:id="@+id/wheel_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:hint="@string/create_wheel_title_hint"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:text="@string/create_wheel_entry_field"
+                android:textAlignment="center"
+                android:textSize="@dimen/text_title" />
+            <EditText
+                android:id="@+id/entry1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:hint="@string/create_wheel_entry_field_hint1"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+            <EditText
+                android:id="@+id/entry2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:hint="Entry #2"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+            <EditText
+                android:id="@+id/entry3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:hint="Entry #3"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+            <EditText
+                android:id="@+id/entry4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:hint="Entry #4"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+            <EditText
+                android:id="@+id/entry5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:hint="Entry #5"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+            <EditText
+                android:id="@+id/entry6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:hint="Entry #6"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+            <EditText
+                android:id="@+id/entry7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:hint="Entry #7"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+            <EditText
+                android:id="@+id/entry8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:hint="Entry #8"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:text="@string/create_wheel_description_hint"
+                android:textAlignment="center"
+                android:textSize="@dimen/text_title" />
+
+            <EditText
+                android:id="@+id/wheel_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_top"
+                android:ems="10"
+                android:gravity="start"
+                android:inputType="textMultiLine"
+                android:minLines="10"
+                android:textAlignment="inherit" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/navigation_top_height"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bttCancel"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:background="@drawable/drawable_button_white"
+            android:text="@string/cancel"
+            android:textColor="@drawable/drawable_text_blue" />
+
+        <Button
+            android:id="@+id/bttSave"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/drawable_button_white"
+            android:text="@string/save"
+            android:textColor="@drawable/drawable_text_blue" />
+    </LinearLayout>
+
+</RelativeLayout>

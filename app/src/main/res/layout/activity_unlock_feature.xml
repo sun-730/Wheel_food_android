@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="wheelofeats.roxdesign.com.wheelofeats.Activity.UnlockFeatureActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/navigation_top_height"
+        android:background="@android:color/white">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_weight="8"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/unlock_more_feature"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_title"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btt_unlock_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:text="@string/back"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textColor="@color/color_blue_main"
+            android:textSize="@dimen/text_content" />
+
+        <Button
+            android:id="@+id/btt_restore"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:text="@string/restore"
+            android:textColor="@color/color_blue_main"
+            android:textSize="@dimen/text_content" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/tbl_unlock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:descendantFocusability="blocksDescendants">
+
+    </ListView>
+
+</LinearLayout>

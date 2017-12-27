@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_background"
+    tools:context="wheelofeats.roxdesign.com.wheelofeats.Activity.DrinkActivity">
+
+    <ImageButton
+        android:id="@+id/imgLiquor1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/drink_liquor_icon"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.097"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.14999998"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/pick_a"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_content"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@+id/imgLiquor1"
+        app:layout_constraintRight_toRightOf="@+id/imgLiquor1"
+        app:layout_constraintTop_toBottomOf="@+id/imgLiquor1"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/liquor"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_title"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@+id/imgLiquor1"
+        app:layout_constraintRight_toRightOf="@+id/imgLiquor1"
+        app:layout_constraintTop_toBottomOf="@+id/textView10"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+
+    <ImageButton
+        android:id="@+id/imgBeer1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/drink_beer_icon"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.958"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.14999998"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/pick_a"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_content"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@+id/imgBeer1"
+        app:layout_constraintRight_toRightOf="@+id/imgBeer1"
+        app:layout_constraintTop_toBottomOf="@+id/imgBeer1"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/beer"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_title"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@+id/imgBeer1"
+        app:layout_constraintRight_toRightOf="@+id/imgBeer1"
+        app:layout_constraintTop_toBottomOf="@+id/textView11"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+
+    <ImageButton
+        android:id="@+id/imgTea1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/drink_tea_icon"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.097"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.75"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/pick_a"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_content"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@+id/imgTea1"
+        app:layout_constraintRight_toRightOf="@+id/imgTea1"
+        app:layout_constraintTop_toBottomOf="@+id/imgTea1"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/tea"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_title"
+        android:textStyle="bold"
+        app:layout_constraintHorizontal_bias="0.463"
+        app:layout_constraintLeft_toLeftOf="@+id/imgTea1"
+        app:layout_constraintRight_toRightOf="@+id/imgTea1"
+        app:layout_constraintTop_toBottomOf="@+id/textView14"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+
+    <ImageButton
+        android:id="@+id/imgWine1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/drink_wine_icon"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.902"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.75"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/pick_a"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_content"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@+id/imgWine1"
+        app:layout_constraintRight_toRightOf="@+id/imgWine1"
+        app:layout_constraintTop_toBottomOf="@+id/imgWine1"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/wine"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_title"
+        android:textStyle="bold"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintLeft_toLeftOf="@+id/imgWine1"
+        app:layout_constraintRight_toRightOf="@+id/imgWine1"
+        app:layout_constraintTop_toBottomOf="@+id/textView15"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:background="@android:color/white"
+        android:layout_marginLeft="0dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="0dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="0dp">
+
+        <Button
+            android:id="@+id/bttback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:text="Back"
+            android:textAllCaps="false"
+            android:textColor="@color/color_blue_main" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="DRINKS"
+            android:textAllCaps="true"
+            android:textColor="@android:color/black"
+            android:textSize="24sp" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "359706816324",
+    "firebase_url": "https://wheeleat-84daf.firebaseio.com",
+    "project_id": "wheeleat-84daf",
+    "storage_bucket": "wheeleat-84daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359706816324:android:12f959a75b152e50",
+        "android_client_info": {
+          "package_name": "wheelofeats.roxdesign.com.wheelofeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359706816324-6oqnll16gsql6k772fnhbpu0b9rq1774.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wheelofeats.roxdesign.com.wheelofeats",
+            "certificate_hash": "9151cec5da90ec54c340f79264707d6e49a65ab1"
+          }
+        },
+        {
+          "client_id": "359706816324-e2vngfdidk7jd96aq46sho1813toisek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwGKchoh44pKDYSgLJm1gd2pAldzdR0Mc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359706816324-e2vngfdidk7jd96aq46sho1813toisek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

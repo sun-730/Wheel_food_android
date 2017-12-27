@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3ea38b583d0d1522bf1a7b47a3526c6812389693/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/4dd744abec2d1800230a26242ee9127c7e4cf864/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_1066068b248d352ae72e39640ef6911001d77317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/7d4e2bf651ca7c38c87b1b5d6269615638a7157f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_a93081a8482f085391ab03ed04388cd745cf444a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/a461b417781e74469e862db26ec8ccdca9d1ed41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_512139661587e1a41e5ca89bfe6de112d665b779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/cb8e2d4c78981607f54c06650964c4e813125059/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_b7e269589e1862f97883a7cdba68e360a474a0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/030a1b5c92a4d0a1d5f5801b5bdd33b75965a48d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_2797904c52841b141cb1e0f0b3599d5c9daea613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/a97f7db97311bc04fde770de24f03e417e344d5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_39fa7d678273cac58c0ff9d1ca402c9d3150ec17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/e4a54189104c77efeb5cc76b78d2e305a6f06fff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_0055f6e6f5b7cd524ba1c7b776c00e133c5dfd45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_f0fdf2d95b44379ce7824d4ca0f4e8240a87e940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/8ec40520149bc26dfca62e049ea429952e468d32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_a142c592e1bb50841f46d83b1938254a067feb40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/6683f8cabdbb5c2f1359001f39ae7de2eb9364f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_84c03bb75893726e78a96ed02dca167e3f1f9cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/bfd52dd8ba460607d41f188da6c46b66586b1db7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_fd7a4a931d90b29ffe93dccf04def63827cd0c00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/4a7a73718d8836925c436c164c6eb799b261df6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_74bfc5300890105f5e1092524ce39472b02f69be.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3043f767bb7938cd1e3fe2be0114c0d0d88db6d">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f501e3d2a8bb7f2397e6541d9f99f29827681d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/b14659812192209ca10cdc0a87a154084d9dab1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_69ac074046dc3f92cc93efb8e78421c38e5910e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/a70b849f20b571b31ea4db99d8c24939dc77d843/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bae64da9140d1e78edb6f28a1b4c8831aac4ab88">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_0f0db8762cecddae67a320f17fc8f4f7682cbc64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/7f554f585ce2a05448a1a14c6b17f1cfcf9c415f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_b00975c90318abd618b698ac95789b792b874e3b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/libs/android-async-http-1.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.4_e429553f1d91f272b053d890b1d5edd653893f27/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/4f412df065380bb5814a442a7c425c8f0e9ab6db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_c9aa4b8aca8c918fc9a70dbd19d72d0cd4361ee3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/libs/android-async-http-1.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.4_e429553f1d91f272b053d890b1d5edd653893f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/ed25a96ee94e78224e589037f3bbe93bbd70d3dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_116825e7b277b1c33c14aa886758420fefe67e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/d25ff48ad1d83662fb8bf9b913a711f0da0b61b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_0fa6b352eb53be564940fdfef64904a7e69ccba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/834b6c7a65c5a30e848a30dd428fd13973989f98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_4a0d70734ccdacb6fbd1cee8f0289a734750e90a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/54c0ad77c35deb816edc2a281e871882d90a4efd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_fed641bd8ae04a84d467983f90b615d807eb6b18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/ef77c51da6523ed1531bcac0bc4e1fcc80311d83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_e056e3de4772af55b5238ae51e2366970c78df9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/53c5979609672635f2dbf96e9b35d9d7450abac0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4b88325124c4bd658ae2717977668646ba9b37a">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_ecbc2e07fbf3d35ece7e57fd5d46608f6c8b1842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/glide-3.7.0_85e2c7fb43e90bbf99e65405194df9fda7e9957f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/e7ed1628159d50b2416be3a29945ddb32dd79ea1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_73d5640ed22fde0db691c69a12e935a76c5520be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/4c564d612fd066ddb0afdf5a206c82d40dcf36af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_5716531767d6e5d014e4841b09d678e2cb950934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/9238543641328bd87594d5c6d4e6f459c58bbb10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_e2ff64c4e9aeed298b6de9c9f287304ab075e533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.2.2/12c92a768592dd916407f3c45644a83a7ad2b103/realm-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="12c92a768592dd916407f3c45644a83a7ad2b103">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/realm-annotations-2.2.2_599cabe803ad595e84148a7592b8242b7dbf21fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/gson-2.2.4_6458a38509addf9ac2922890eb8e58b905636a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/7a3eef5203537f7bfc4c22f051a065e4b68faad9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_307ab64571b7c8881dd1388ee83a514f4390d584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/4fdb1ff78dc3b614bd80decce814d3ddcd468672/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_5183a94b682da1db64cd6d26c468d035ece814e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/libs/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.4_6458a38509addf9ac2922890eb8e58b905636a73/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/c7b95338d910d8519e94c75133fda2ebb97daec5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_9d68cae4dabcdcf54d85590dbdc257306277d400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_882182ca6acb611f14540e805e2d31a75879c4cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panda/.android/build-cache/25d695a9e5619ae387b7edb12b5762d7462c61f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Volumes/Work/Cheera/Workspace/WheelOfEat/Android/app/build/intermediates/pre-dexed/debug/classes_0443f742f224b783746b943f34428bf2367cbd8e.jar" />
+    </item>
+
+</items>

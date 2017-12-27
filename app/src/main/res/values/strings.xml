@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">WheelOfEats</string>
+    <string name="title_food">Food</string>
+    <string name="title_drink">Drink</string>
+    <string name="title_my_wheel">My Wheel</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_activity_terms">TermsActivity</string>
+    <string name="read_term">I have read the Terms and Conditions</string>
+    <string name="got_it">OK, I GOT IT!</string>
+    <string name="back">Back</string>
+    <string name="restore">Restore</string>
+
+    <string name="unlock_more_feature">Unlock Feature</string>
+    <string name="sound">Sound</string>
+
+    <string name="my_wheels">MY WHEELS</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string name="disable">DISABLE</string>
+    <string name="enable">ENABLE</string>
+    <string name="edit">EDIT</string>
+    <string name="create_new">CREATE NEW</string>
+    <string name="create_wheel">Create Wheel</string>
+    <string name="create_wheel_title">Title</string>
+    <string name="create_wheel_title_hint">title of the wheel</string>
+    <string name="create_wheel_entry_field">Entry field</string>
+    <string name="create_wheel_entry_field_hint1">Entry #1</string>
+    <string name="create_wheel_entry_field_hint2">Entry #2</string>
+    <string name="create_wheel_entry_field_hint3">Entry #3</string>
+    <string name="create_wheel_entry_field_hint4">Entry #4</string>
+    <string name="create_wheel_entry_field_hint5">Entry #5</string>
+    <string name="create_wheel_entry_field_hint6">Entry #6</string>
+    <string name="create_wheel_entry_field_hint7">Entry #7</string>
+    <string name="create_wheel_entry_field_hint8">Entry #8</string>
+    <string name="create_wheel_help">Type in your top 8 places and a title if you plan on saving this list for later. Then click save or cancel.</string>
+    <string name="create_wheel_description_hint">Enter a small note. Example "best mango smoothie at Tropical Cafe, added energy powder." This text will appear at the bottom of your wheel.</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="share">Share</string>
+    <string name="spin">SPIN</string>
+    <string name="open_in_yelp">Open in yelp</string>
+
+    <string name="spin_by">SPIN_BY</string>
+    <string name="create">CREATE</string>
+    <string name="regional">REGIONAL</string>
+    <string name="already_at">ALREADY AT</string>
+
+    <string name="dining_type">DINING  TYPE</string>
+    <string name="custom">CUSTOM</string>
+    <string name="cuisines">CUISINES</string>
+    <string name="restaurant">RESTAURANT</string>
+
+
+    <string name="pick_a">PICK A</string>
+    <string name="beer">BEER</string>
+    <string name="liquor">LIQUOR</string>
+    <string name="wine">WINE</string>
+    <string name="tea">TEA</string>
+
+
+    <string name="at_restaurant">AT RESTAURANT</string>
+
+    <string name="spin_me">SPIN ME</string>
+    <string name="view_recipe">VIEW RECIPE</string>
+
+    <string name="ok">ok</string>
+    <string name="net_error">Networking Error!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">videosuncensored</string>
+    <string name="followus">Follow Us:</string>
+</resources>

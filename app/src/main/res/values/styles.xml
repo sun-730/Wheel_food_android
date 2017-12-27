@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="SCBSwitch" parent="Theme.AppCompat.Light">
+        <!-- active thumb & track color (30% transparency) -->
+        <item name="colorControlActivated">@color/color_blue_main</item>
+
+        <!-- inactive thumb color -->
+        <item name="colorSwitchThumbNormal">#f1f1f1
+        </item>
+
+        <!-- inactive track color (30% transparency) -->
+        <item name="android:colorForeground">#42221f1f
+        </item>
+    </style>
+
+
+    <!-- just defines top layer "Animation" -->
+    <style name="Animation" />
+    <!-- the animations must have been defined in your "anim" folder, of course -->
+    <style name="Animation.PresentTheme" parent="android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/move_left</item>
+        <item name="android:activityOpenExitAnimation">@anim/move_right</item>
+    </style>
+    <style name="Theme.PresentTheme" parent="Theme.AppCompat">
+        <item name="android:windowAnimationStyle">@style/Animation.PresentTheme</item>
+    </style>
+
+
+</resources>

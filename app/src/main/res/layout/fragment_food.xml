@@ -1,0 +1,204 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="wheelofeats.roxdesign.com.wheelofeats.Fragment.FoodFragment"
+    tools:layout_editor_absoluteY="25dp"
+    tools:layout_editor_absoluteX="0dp">
+
+
+    <ImageButton
+        android:id="@+id/imgDining"
+        android:layout_width="@dimen/circle_radius"
+        android:layout_height="@dimen/circle_radius"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/food_dining_icon"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.097"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.149" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/spin_by"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_content"
+        android:id="@+id/textView4"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="@+id/imgDining"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/imgDining"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/imgDining" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dining_type"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_title"
+        android:id="@+id/textView3"
+        android:layout_marginTop="11dp"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="@+id/imgDining"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/imgDining" />
+
+
+    <ImageButton
+        android:id="@+id/imgCustom"
+        android:layout_width="@dimen/circle_radius"
+        android:layout_height="@dimen/circle_radius"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/food_custom_icon"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.902"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.149" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/create"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_content"
+        android:id="@+id/textView"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="@+id/imgCustom"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/imgCustom"
+        app:layout_constraintHorizontal_bias="0.487"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/imgCustom" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/custom"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_title"
+        android:textStyle="bold"
+        android:id="@+id/textView5"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="@+id/imgCustom"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/imgCustom" />
+
+
+    <ImageButton
+        android:id="@+id/imgCulture"
+        android:layout_width="@dimen/circle_radius"
+        android:layout_height="@dimen/circle_radius"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/food_culture_icon"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.097"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.75" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/regional"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_content"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/imgCulture"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="@+id/imgCulture"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/imgCulture"
+        android:id="@+id/textView8" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cuisines"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_title"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/textView8"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="@+id/imgCulture"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/imgCulture"
+        android:id="@+id/textView9" />
+
+
+    <ImageButton
+        android:id="@+id/imgRestaurant"
+        android:layout_width="@dimen/circle_radius"
+        android:layout_height="@dimen/circle_radius"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/food_restaurant"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.902"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.75" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/already_at"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_content"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@+id/imgRestaurant"
+        app:layout_constraintRight_toRightOf="@+id/imgRestaurant"
+        app:layout_constraintTop_toBottomOf="@+id/imgRestaurant" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/restaurant"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_title"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="@+id/imgRestaurant"
+        app:layout_constraintRight_toRightOf="@+id/imgRestaurant"
+        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+
+</android.support.constraint.ConstraintLayout>
